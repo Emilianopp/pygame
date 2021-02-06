@@ -4,4 +4,4 @@ I have always been very fond of videogames and wanted to experiment creating a c
 
 As a Christmas gift for my sister I designed this ameteour game with the use of images and items we are both fond of. 
 
-![alt text](https://github.com/emilianopp/pygame/blob/main/demo.png = 100x100?raw=true)
+<img src="https://github.com/emilianopp/pygame/blob/main/demo.png" width="100" height="100">
